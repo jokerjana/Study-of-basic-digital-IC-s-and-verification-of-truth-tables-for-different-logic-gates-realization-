@@ -95,7 +95,7 @@ endmodule
 
 
 ### Timing Diagram:
-![image](https://github.com/Raji1009/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89059861/5777006f-8b57-4d2d-9380-2c0ad6cd6ad0)
+![image](https://github.com/jokerjana/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147173630/e6686747-8bf6-46cb-b018-9d336123df99)
 
 
 
